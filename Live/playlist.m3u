@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 #EXTM3U 
 #EXTINF:-1,24 kitchen 
 http://master.nika.rs.ba:80/live?channelId=1&uid=66&deviceUser=besplatno&devicePass=besplatno 
@@ -151,3 +152,23 @@ http://master.nika.rs.ba:80/live?channelId=50&uid=66&deviceUser=besplatno&device
 http://master.nika.rs.ba:80/live?channelId=148&uid=66&deviceUser=besplatno&devicePass=besplatno 
 #EXTINF:-1,SKY HITS DE – SKY HITS DE 
 http://master.nika.rs.ba:80/live?channelId=149&uid=66&deviceUser=besplatno&devicePass=besplatno
+=======
+#EXTM3U
+#EXTINF:-1,ESPN
+http://iptv.latino-webtv.com/mariocs.php?canal=ESPNLA&cm=2487&f=mariocs.m3u8
+
+#EXTINF:-1,ESPN 2
+http://iptv.latino-webtv.com/mariocs.php?canal=ESPN2LASD&cm=301&f=mariocs.m3u8
+
+#EXTINF:-1,ESPN 3
+http://iptv.latino-webtv.com/mariocs.php?canal=ESPN3LASD&cm=3806&f=mariocs.m3u8
+
+#EXTINF:-1,Fox Sports
+http://iptv.latino-webtv.com/mariocs.php?canal=FoxSportsLA&cm=2505&f=mariocs.m3u8
+
+#EXTINF:-1,Fox Sports 2
+http://iptv.latino-webtv.com/mariocs.php?canal=FoxSports2SD&cm=475&f=mariocs.m3u8
+
+#EXTINF:-1,Fox Sports 3
+http://iptv.latino-webtv.com/mariocs.php?canal=FoxSports3SD&cm=3806&f=mariocs.m3u8
+>>>>>>> Stashed changes
